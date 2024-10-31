@@ -1,0 +1,38 @@
+﻿icon,Name,ingredients,damage
+Cactus_Pickaxe.png,Cactus Pickaxe,Cactus.png,"5 "
+Copper_Pickaxe.png,Copper Pickaxe,"Copper_Bar.png, Any_Wood.gif",4
+Tin_Pickaxe.png,Tin Pickaxe,"Tin_Bar.png, Any_Wood%201.gif",4
+Iron_Pickaxe.png,Iron Pickaxe,"Iron_Bar.png, Any_Wood_(1).gif",5
+Lead_Pickaxe.png,Lead Pickaxe,"Lead_Bar.png, Any_Wood_(1)%201.gif",5
+Silver_Pickaxe.png,Silver Pickaxe,"Silver_Bar.png, Any_Wood_(1)%202.gif",6
+Tungsten_Pickaxe.png,Tungsten Pickaxe,"Tungsten_Bar.png, Any_Wood_(1)%203.gif",6
+Gold_Pickaxe.png,Gold Pickaxe,"Gold_Bar.png, Any_Wood_(1)%204.gif",6
+Bone_Pickaxe.png,Bone Pickaxe,,8
+Platinum_Pickaxe.png,Platinum Pickaxe,"Platinum_Bar.png, Any_Wood%202.gif",7
+Reaver_Shark.png,Reaver Shark,,16
+Nightmare_Pickaxe.png,Nightmare Pickaxe,"Demonite_Bar.png, Shadow_Scale.png",9
+Deathbringer_Pickaxe.png,Deathbringer Pickaxe,"Crimtane_Bar.png, Tissue_Sample.png",12
+Molten_Pickaxe.png,Deathbringer Pickaxe,Hellstone_Bar.png,12
+Cobalt_Pickaxe.png,Cobalt Pickaxe,Cobalt_Bar.png,10
+Cobalt_Drill.png,Cobalt Drill,Cobalt_Bar%201.png,10
+Palladium_Pickaxe.png,Palladium Pickaxe,Palladium_Bar.png,12
+Palladium_Drill.png,Palladium Drill,Palladium_Bar%201.png,12
+Mythril_Pickaxe.png,Mythril Pickaxe,Mythril_Bar.png,15
+Mythril_Drill.png,Mythril Drill,Mythril_Bar%201.png,15
+Orichalcum_Pickaxe.png,Orichalcum Pickaxe,Orichalcum_Bar.png,17
+Orichalcum_Drill.png,Orichalcum Drill,Orichalcum_Bar%201.png,17
+Adamantite_Pickaxe.png,Adamantite Pickaxe,Adamantite_Bar.png,20
+Adamantite_Drill.png,Adamantite Drill,Adamantite_Bar%201.png,20
+Titanium_Pickaxe.png,Titanium Pickaxe,Titanium_Bar.png,27
+Titanium_Drill.png,Titanium Drill,Titanium_Bar%201.png,27
+Spectre_Pickaxe.png,Spectre Pickaxe,"Chlorophyte_Bar.png, Ectoplasm.png",32
+Chlorophyte_Pickaxe.png,Chlorophyte Pickaxe,Chlorophyte_Bar_(1).png,40
+Chlorophyte_Drill.png,Chlorophyte Drill,Chlorophyte_Bar_(1)%201.png,35
+Pickaxe_Axe.png,Pickaxe Axe,"Hallowed_Bar.png, Soul_of_Fright.png, Soul_of_Might.png, Soul_of_Sight.png",35
+Drax.png,Drax,"Hallowed_Bar%201.png, Soul_of_Fright%201.png, Soul_of_Might%201.png, Soul_of_Sight%201.png",35
+Picksaw.png,Picksaw,,34
+Candy_Cane_Pickaxe.png,Candy Cane Pickaxe,,7
+Fossil_Pickaxe.png,Fossil Pickaxe,"Sturdy_Fossil.png, Any_Wood%203.gif",8
+Shroomite_Digging_Claw.png,Shroomite Digging Claw,Shroomite_Bar.png,45
+"Nebula_Pickaxe_(1).png, Solar_Flare_Pickaxe.png, Stardust_Pickaxe.png, Vortex_Pickaxe.png",Nebula/Solar Flare/Stardust/Vortex Pickaxes,"Luminite_Bar.png, Nebula_Fragment.png, Solar_Fragment.png, Stardust_Fragment.png, Vortex_Fragment.png",80
+"Nebula_Drill.png, Solar_Flare_Drill.png, Stardust_Drill.png, Vortex_Drill.png",Nebula/Solar Flare/Stardust/Vortex Drills,"Luminite_Bar%201.png, Nebula_Fragment%201.png, Solar_Fragment%201.png, Stardust_Fragment%201.png, Vortex_Fragment%201.png",50

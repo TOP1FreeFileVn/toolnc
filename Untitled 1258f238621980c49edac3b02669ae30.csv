@@ -1,0 +1,6 @@
+﻿icon,name,ingredients
+"Red_Wrench.png, Blue_Wrench.png, Green_Wrench.png, Yellow_Wrench.png",Wrenches,
+Wire_Cutter.png,Wire Cutter,
+The_Grand_Design.png,The Grand Design,"Wire_(1).png, Mechanical_Ruler.png, Mechanical_Lens.png, Multicolor_Wrench.png"
+Actuation_Rod.png,Actuation Rod,"Wire.png, Actuator.png, Any_Iron_Bar.gif"
+Multicolor_Wrench%201.png,Multicolor Wrench,"Red_Wrench%201.png, Wire_Cutter%201.png, Blue_Wrench%201.png, Green_Wrench%201.png, Yellow_Wrench%201.png"
